@@ -1,7 +1,7 @@
 <div align="center"> 
 <picture>
     <source
-      width="512px"
+      width="582px"
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_dark.svg"
     />
