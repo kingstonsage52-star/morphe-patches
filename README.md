@@ -1,7 +1,7 @@
 <div align="center"> 
 <picture>
     <source
-      width="512px"
+      width="586px"
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_dark.svg"
     />
@@ -42,7 +42,7 @@ All modifications made by Morphe, along with their dates, can be found in the Gi
 
 **🎯 Supported versions:**
 
-| 🧪&nbsp;21.29.366 | 🧪&nbsp;21.28.204 | 🧪&nbsp;21.26.360 | 🧪&nbsp;21.05.265 | 21.04.223 | 20.51.39 | 20.31.42 | 20.21.37 |
+| 🧪&nbsp;21.29.366 | 🧪&nbsp;21.28.204 | 🧪&nbsp;21.23.48t | 🧪&nbsp;21.05.265 | 21.04.223 | 20.51.39 | 20.31.42 | 20.21.37 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
